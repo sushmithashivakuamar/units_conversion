@@ -4,4 +4,4 @@ download all file and run the index.html
 2.Convert weight from Kilograms to Pounds 
 3.Convert distance from Kilometers to Miles
 
-https://sushmithashivakuamar.github.io/untis_conversion/index.html
+https://sushmithashivakuamar.github.io/units_conversion/index.html
